@@ -1,0 +1,18 @@
+name: socket_io_common
+description: Socket.io common parser library.
+version: 0.9.0+1
+author: jumperchen <jumperchen@potix.com>
+homepage: https://www.zkoss.org
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  #uuid: '^1.0.3'
+  #logging: '^0.11.3+2'
+
+  uuid: '^3.0.1'
+  logging: '^1.0.0'
+
+dev_dependencies:
+  test: ^1.0.0
